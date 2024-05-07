@@ -1,4 +1,4 @@
-# Docuvento_FRTProject
+# Docuvento
 Our website is designed to create a community and promote awareness about health and environmental issues among individuals.
 
 # About
